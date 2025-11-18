@@ -1,8 +1,5 @@
 # Reset-Protocol
 Blockchain-verified community health surveillance for healthcare deserts
-# The Reset Protocol
-
-Blockchain-verified community health surveillance for healthcare deserts.
 
 ## The Problem
 
