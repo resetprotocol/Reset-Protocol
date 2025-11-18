@@ -23,10 +23,10 @@ Community-based health screenings with blockchain-verified records that give pat
 
 ## Current Status
 
-✅ **80 patients screened** (October-November 2024)  
-✅ **Deploying on Base blockchain**  
-✅ **Patent pending** (provisional filing in progress)  
-✅ **Pilot location:** Buffalo, NY (Erie County)  
+**80 patients screened** (October-November 2024)  
+**Deploying on Base blockchain**  
+**Patent pending** (provisional filing in progress)  
+**Pilot location:** Buffalo, NY (Erie County)  
 
 ## Key Findings
 
@@ -47,16 +47,16 @@ From our first 80 community screenings:
 ## Why Blockchain?
 
 Traditional medical records:
-❌ Scattered across multiple systems  
-❌ Inaccessible to patients  
-❌ Lost when switching providers  
-❌ Can be altered or deleted  
+-Scattered across multiple systems  
+-Inaccessible to patients  
+-Lost when switching providers  
+Can be altered or deleted  
 
 Blockchain health records:
-✅ Patient-owned and controlled  
-✅ Permanent and tamper-proof  
-✅ Accessible anywhere via smartphone  
-✅ Privacy-protected (anonymous patient IDs)  
+-Patient-owned and controlled  
+-Permanent and tamper-proof  
+-Accessible anywhere via smartphone  
+-Privacy-protected (anonymous patient IDs)  
 
 ## Impact
 
@@ -70,24 +70,24 @@ This infrastructure enables:
 ## Roadmap
 
 **Phase 1 (Current):** Proof-of-concept
-- ✅ 80 patients screened in Buffalo
-- 🔄 Deploy smart contracts on Base
-- 🔄 File provisional patent
+- 80 patients screened in Buffalo
+- Deploy smart contracts on Base
+- File provisional patent
 
 **Phase 2 (Q1 2026):** Scale locally
-- 🎯 500 patients across Buffalo
-- 🎯 Launch peer health navigator program
-- 🎯 Partner with Erie County Dept of Aging
+- 500 patients across Buffalo
+- Launch peer health navigator program
+- Partner with Erie County Dept of Aging
 
 **Phase 3 (Q2 2026):** Geographic expansion
-- 🎯 Expand to Rochester, Syracuse
-- 🎯 White-label system for other cities
-- 🎯 Apply for NIH health equity grants
+- Expand to Rochester, Syracuse
+- White-label system for other cities
+- Apply for NIH health equity grants
 
 **Phase 4 (2027+):** National model
-- 🎯 10+ cities using Reset Protocol
-- 🎯 Data licensing to insurance/pharma
-- 🎯 Full utility patent granted
+-  10+ cities using Reset Protocol
+-  Data licensing to insurance/pharma
+-  Full utility patent granted
 
 ## Funding
 
@@ -101,16 +101,17 @@ This infrastructure enables:
 
 ## Team
 
-**Toi** - Founder & Community Health Lead  
+**latoi-Shanai Jeter** - Founder & Community Health Lead  
 - 80+ community health screenings conducted  
-- Partnership with Erie County Department of Aging  
+- Partnership with Erie County Department of Aging
+- Partnership with Visionary Wellness WNY 
 - Community health educator, Buffalo NY  
 
 ## Contact
 
 - **GitHub:** github.com/resetprotocol
-- **Farcaster:** @resetprotocol (coming soon)
-- **Email:** letbdadoit@gmail.com
+- **Farcaster:** @resetprotocol 
+- **Email:** theresetcollaborative@gmail.com
 
 ---
 
